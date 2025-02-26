@@ -10,7 +10,7 @@ metadata:
     - title: Angular Home
       url: https://angular.io/
   annotations:
-    github.com/project-slug: Devmenon-cmd/TechDocExample
+    github.com/project-slug: yhachhach/TechDocExample
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
